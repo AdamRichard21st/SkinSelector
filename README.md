@@ -8,6 +8,7 @@ Define a list of view models and let players choose it in-game.
 
 # Settings
 All mod settings goes inside `configs/skins.json` as follow:
+
 key                         | description
 ----------------------------|------------
 settings.`debug`            | Logs resource loading list on start if `true`.
