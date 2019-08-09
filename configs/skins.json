@@ -1,0 +1,138 @@
+{
+    "settings":
+    {
+        "debug": true,
+        "showAsCategories": true,
+        "showCollapsed": true,
+        "closeOnSelect": false,
+        "accessByFlags": true,
+        "ignoreAccess": true,
+        "defaultSkins": false
+    },
+    "deagle":
+    [
+        {
+            "name": "DEAGLE Biohazard",
+            "model": "models/AdamRichard21st/deagle_biohazard.mdl",
+            "default": true
+        },
+        {
+            "name": "DEAGLE Blaze",
+            "model": "models/AdamRichard21st/deagle_blaze.mdl",
+            "admin": "ab"
+        }
+    ],
+    "famas":
+    [
+        {
+            "name": "FAMAS Biohazard",
+            "model": "models/AdamRichard21st/famas_biohazard.mdl"
+        },
+        {
+            "name": "FAMAS Blue Way",
+            "model": "models/AdamRichard21st/famas_blueway.mdl"
+        }
+    ],
+    "ak47":
+    [
+        {
+            "name": "AK47 Elite Build",
+            "model": "models/AdamRichard21st/ak47_elite_build.mdl",
+            "default": true
+        },
+        {
+            "name": "AK47 Neon Revolution",
+            "model": "models/AdamRichard21st/ak47_nrevolution.mdl"
+        },
+        {
+            "name": "AK47 Frontside Misty",
+            "model": "models/AdamRichard21st/ak47_frontside.mdl"
+        }
+    ],
+    "m4a1":
+    [
+        {
+            "name": "M4A1-S Boreal Forest",
+            "model": "models/AdamRichard21st/m4a1_bforest.mdl"
+        },
+        {
+            "name": "M4A1-S Flashback",
+            "model": "models/AdamRichard21st/m4a1_flashback.mdl"
+        },
+        {
+            "name": "M4A4 Asiimov",
+            "model": "models/AdamRichard21st/m4a4_asiimov.mdl"
+        },
+        {
+            "name": "M4A4 Howl",
+            "model": "models/AdamRichard21st/m4a4_howl.mdl"
+        }
+    ],
+    "awp":
+    [
+        {
+            "name": "AWP Asiimov",
+            "model": "models/AdamRichard21st/awp_asiimov.mdl"
+        },
+        {
+            "name": "AWP Worm God",
+            "model": "models/AdamRichard21st/awp_wormgod.mdl"
+        },
+        {
+            "name": "AWP Fever Dream",
+            "model": "models/AdamRichard21st/awp_fdream.mdl"
+        }
+    ],
+    "knife":
+    [
+        {
+            "name": "BUTTERFLY Hawaiian",
+            "model": "models/AdamRichard21st/k_bfly_hawaiian.mdl"
+        },
+        {
+            "name": "BUTTERFLY Lore",
+            "model": "models/AdamRichard21st/k_bfly_lore.mdl"
+        },
+        {
+            "name": "KARAMBIT Boreal Forest",
+            "model": "models/AdamRichard21st/k_kbit_bforest.mdl"
+        },
+        {
+            "name": "KARAMBIT Doppler Pink",
+            "model": "models/AdamRichard21st/k_kbit_doppink.mdl",
+            "default": true
+        }
+    ],
+    "c4":
+    [
+        {
+            "name": "C4 CSGO",
+            "model": "models/AdamRichard21st/c4.mdl",
+            "default": true
+        }
+    ],
+    "hegrenade":
+    [
+        {
+            "name": "HE CSGO",
+            "model": "models/AdamRichard21st/g_hegren.mdl",
+            "default": true
+        }
+    ],
+    "flashbang":
+    [
+        {
+            "name": "FLASHBANG CSGO",
+            "model": "models/AdamRichard21st/g_flash.mdl",
+            "default": true
+        }
+    ],
+    "smokegrenade":
+    [
+        {
+            "name": "SMOKE CSGO",
+            "model": "models/AdamRichard21st/g_sgren.mdl",
+            "default": true
+        }
+    ]
+}
